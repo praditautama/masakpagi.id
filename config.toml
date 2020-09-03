@@ -11,6 +11,8 @@ theme = "hugo-scroll"
 # The "title" of your website
 title = "Masak Pagi - Kami masak pagi untuk dimakan siang"
 
+googleAnalytics = "UA-37288123-2"
+
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.

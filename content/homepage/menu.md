@@ -13,6 +13,8 @@ Nasi bebek adalah daging bebek yang digoreng dan dihidangkan dengan sambal dan k
 
 Sampai saat ini, masih jarang dijumpai sajian bebek yang dimasak atau disajikan dengan selain digoreng. Nasi bebek atau bebek goreng ini biasanya disajikan dalam keadan yang masih panas (baru digoreng) dengan lalapan daun kemangi, timun, dan sambal serta dimakan langsung dengan tangan. 
 
+Bebeknya kita presto lho, jadi pasti empuk banget.
+
 Di Masak Pagi, kamu akan mendapatkan 1 potong Bebek Goreng, nasi putih, sambal pedas, dan mentimun.
 
 ![Nice picture to make you pay me ;-)](../images/nasi-bebek.jpg)
