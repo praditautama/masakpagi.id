@@ -1,12 +1,8 @@
 ---
 title: 'Menu'
-weight: 3
+weight: 1
 header_menu: false
 ---
-
-
----
-
 ### Nasi Bebek
 #### ~~Rp 30.000~~ Rp 25.000
 
