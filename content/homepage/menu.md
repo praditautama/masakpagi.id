@@ -8,6 +8,7 @@ header_menu: true
 ---
 
 ### Nasi Bebek
+#### ~Rp 30.000~ Rp 25.000
 
 Nasi bebek adalah daging bebek yang digoreng dan dihidangkan dengan sambal dan kadang memakai tambahan lalapan. Bebek goreng dapat ditemui di warung-warung kaki lima sampai di restoran dan hotel mewah. Karena bebek goreng biasanya dimakan dengan nasi, maka penjual bebek goreng kaki lima menuliskan menu bebek goreng dengan spanduk bertuliskan "Nasi Bebek". 
 
@@ -22,6 +23,7 @@ Di Masak Pagi, kamu akan mendapatkan 1 potong Bebek Goreng, nasi putih, sambal p
 ---
 
 ### Ayam Betutu
+#### Rp 25.000
 
 Ayam betutu merupakan jenis lauk pauk yang dibuat dari daging ayam yang telah dibersihkan kemudian dibalurkan bumbu khas Bali yang dikenal dengan base genep di seluruh permukaan tubuh daging ayam dan sebagian lagi dimasukkan ke dalam rongga abdomennya. 
 
