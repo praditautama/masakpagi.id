@@ -46,6 +46,4 @@ Paket yang akan kamu dapatkan:
 * Sendok dan garpu
 * Tisu
 
-Di Masak Pagi, kamu akan mendapatkan 1 potong Ayam Betutu (\~170gram), nasi putih, sambal matah, dan kacang.
-
 ![Let us get started on a clean slate](../images/ayam-betutu.jpg)
