@@ -16,7 +16,7 @@ Bebeknya kita presto lho, jadi pasti empuk banget.
 
 Paket yang akan kamu dapatkan:
 
-* Potongan daging bebek goreng \~180gram
+* Potongan daging bebek goreng empuk \~180gram
 * Nasi putih
 * Sambal spesial yang pedas
 * Mentimun
