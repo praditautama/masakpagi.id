@@ -6,7 +6,7 @@ header_menu: false
 ---
 ### Nasi Bebek
 
-#### ~~Rp 30.000~~ Rp 25.000
+#### Rp 30.000
 
 Nasi bebek adalah daging bebek yang digoreng dan dihidangkan dengan sambal dan kadang memakai tambahan lalapan. Bebek goreng dapat ditemui di warung-warung kaki lima sampai di restoran dan hotel mewah. Karena bebek goreng biasanya dimakan dengan nasi, maka penjual bebek goreng kaki lima menuliskan menu bebek goreng dengan spanduk bertuliskan "Nasi Bebek".
 
